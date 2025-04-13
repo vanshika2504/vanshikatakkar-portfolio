@@ -182,7 +182,7 @@
   /* About Section */
   
   #about {
-    background-color: #f1c4c4; 
+    background-color: #fffff; 
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   }
   
@@ -195,7 +195,7 @@
   
   .about-content p {
     font-size: 1.1rem;
-    color: #fb8281; /* A muted pinkish-brown for text */
+    color: #bc8f8f; /* A muted pinkish-brown for text */
     line-height: 1.7;
   }
   
